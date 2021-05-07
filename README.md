@@ -1,31 +1,27 @@
-# This is a large heading
+# Howard e Stugard III
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The formsmof things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and **name**.
+I live in the city of San Vito Dei Normanni, in the region of Puglia, in Italy.
 
--This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is 'some code' in the middle of a sentence.
+- *The Hobbit* by J.R.R. Tolkien
+- *The Dark Tower* by Stephen King
+- *Odd Thomas* by Dean Koontz
 
-'''
+### Food
 
-This is 
-a block
-of code
+Last night I dreamt about easting in these resturants:
 
-'''
+1. Locanda Locatelli in London
+2. The View Resturant in New York City
+3. Catch by Simonis in Den Hague 
 
-Here is how you make [a link] (https://www.wikipedia.org/).
+### Contact
+
+The best way to get in touch with me is [on Twitter](Https://twitter.com/stugardh).
 
 
-![This is an image.] (https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
